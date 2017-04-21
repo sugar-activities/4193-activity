@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-17 10:59-0500\n"
+"PO-Revision-Date: 2010-01-18 15:09+0200\n"
+"Last-Translator: Carlo Falciola <cfalciola@yahoo.it>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2 activity.py:12
+msgid "Physics"
+msgstr "Fisica"
+
+#: activity.py:46 activity.py:88
+msgid "Stop"
+msgstr "Stop"
+
+#: activity.py:47
+msgid "<ctrl>space"
+msgstr "<ctrl>spazio"
+
+#: activity.py:74
+msgid "Create"
+msgstr "Crea"
+
+#: activity.py:91
+msgid "Start"
+msgstr "Avvia"
+
+#: tools.py:61
+msgid "Circle"
+msgstr "Cerchio"
+
+#: tools.py:62
+msgid "<ctrl>c"
+msgstr "<ctrl>c"
+
+#: tools.py:99
+msgid "Box"
+msgstr "Scatola"
+
+#: tools.py:100
+msgid "<ctrl>b"
+msgstr "<ctrl>s"
+
+#: tools.py:143
+msgid "Triangle"
+msgstr "Triangolo"
+
+#: tools.py:144
+msgid "<ctrl>t"
+msgstr "<ctrl>t"
+
+#: tools.py:186
+msgid "Polygon"
+msgstr "Poligono"
+
+#: tools.py:187
+msgid "<ctrl>p"
+msgstr "<ctrl>p"
+
+#: tools.py:241
+msgid "Draw"
+msgstr "Disegno"
+
+#: tools.py:242
+msgid "<ctrl>d"
+msgstr "<ctrl>d"
+
+#: tools.py:288
+msgid "Grab"
+msgstr "Afferra"
+
+#: tools.py:289
+msgid "<ctrl>g"
+msgstr "<ctrl>a"
+
+#: tools.py:318
+msgid "Joint"
+msgstr "Unisci"
+
+#: tools.py:359
+msgid "Pin"
+msgstr "Fissa"
+
+#: tools.py:360
+msgid "<ctrl>o"
+msgstr "<ctrl>f"
+
+#: tools.py:383
+msgid "Motor"
+msgstr "Motore"
+
+#: tools.py:384
+msgid "<ctrl>m"
+msgstr "<ctrl>m"
+
+#: tools.py:407
+msgid "Roll"
+msgstr "Rotola"
+
+#: tools.py:408
+msgid "<ctrl>r"
+msgstr "<ctrl>r"
+
+#: tools.py:435
+msgid "Erase"
+msgstr "Gomma"
+
+#: tools.py:436
+msgid "<ctrl>e"
+msgstr "<ctrl>g"
+
+#: olpcgames/canvas.py:151
+#, python-format
+msgid "%s Source"
+msgstr "%s Sorgente"
+
+#~ msgid "c"
+#~ msgstr "c"
+
+#~ msgid "b"
+#~ msgstr "s"
+
+#~ msgid "t"
+#~ msgstr "t"
+
+#~ msgid "p"
+#~ msgstr "p"
+
+#~ msgid "d"
+#~ msgstr "d"
+
+#~ msgid "g"
+#~ msgstr "a"
+
+#~ msgid "o"
+#~ msgstr "o"
+
+#~ msgid "m"
+#~ msgstr "m"
+
+#~ msgid "e"
+#~ msgstr "g"

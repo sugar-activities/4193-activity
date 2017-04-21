@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-17 10:59-0500\n"
+"PO-Revision-Date: 2010-03-07 17:03+0200\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2 activity.py:12
+msgid "Physics"
+msgstr "Vật lý"
+
+#: activity.py:46 activity.py:88
+msgid "Stop"
+msgstr "Dừng"
+
+#: activity.py:47
+msgid "<ctrl>space"
+msgstr "<ctrl>phím_dài"
+
+#: activity.py:74
+msgid "Create"
+msgstr "Tạo"
+
+#: activity.py:91
+msgid "Start"
+msgstr "Chạy"
+
+#: tools.py:61
+msgid "Circle"
+msgstr "Tròn"
+
+#: tools.py:62
+msgid "<ctrl>c"
+msgstr "<ctrl>r"
+
+#: tools.py:99
+msgid "Box"
+msgstr "Hộp"
+
+#: tools.py:100
+msgid "<ctrl>b"
+msgstr "<ctrl>h"
+
+#: tools.py:143
+msgid "Triangle"
+msgstr "Tam giác"
+
+#: tools.py:144
+msgid "<ctrl>t"
+msgstr "<ctrl>t"
+
+#: tools.py:186
+msgid "Polygon"
+msgstr "Đa giác"
+
+#: tools.py:187
+msgid "<ctrl>p"
+msgstr "<ctrl>g"
+
+#: tools.py:241
+msgid "Draw"
+msgstr "Vẽ"
+
+#: tools.py:242
+msgid "<ctrl>d"
+msgstr "<ctrl>v"
+
+#: tools.py:288
+msgid "Grab"
+msgstr "Lấy"
+
+#: tools.py:289
+msgid "<ctrl>g"
+msgstr "<ctrl>l"
+
+#: tools.py:318
+msgid "Joint"
+msgstr "Chỗ nối"
+
+#: tools.py:359
+msgid "Pin"
+msgstr "Ghim"
+
+#: tools.py:360
+msgid "<ctrl>o"
+msgstr "<ctrl>g"
+
+#: tools.py:383
+msgid "Motor"
+msgstr "Mô tô"
+
+#: tools.py:384
+msgid "<ctrl>m"
+msgstr "<ctrl>m"
+
+#: tools.py:407
+msgid "Roll"
+msgstr "Cuộn"
+
+#: tools.py:408
+msgid "<ctrl>r"
+msgstr "<ctrl>c"
+
+#: tools.py:435
+msgid "Erase"
+msgstr "Xoá"
+
+#: tools.py:436
+msgid "<ctrl>e"
+msgstr "<ctrl>x"
+
+#: olpcgames/canvas.py:151
+#, python-format
+msgid "%s Source"
+msgstr "Nguồn %s"
+
+#~ msgid "c"
+#~ msgstr "r"
+
+#~ msgid "b"
+#~ msgstr "h"
+
+#~ msgid "t"
+#~ msgstr "t"
+
+#~ msgid "p"
+#~ msgstr "g"
+
+#~ msgid "d"
+#~ msgstr "v"
+
+#~ msgid "g"
+#~ msgstr "l"
+
+#~ msgid "o"
+#~ msgstr "g"
+
+#~ msgid "m"
+#~ msgstr "m"
+
+#~ msgid "e"
+#~ msgstr "x"
